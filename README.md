@@ -1,1 +1,1 @@
-# Khushi-java
+# Khushi-SQL
